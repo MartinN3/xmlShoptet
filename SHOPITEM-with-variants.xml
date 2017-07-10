@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<!-- Product with variants -->
+<SHOPITEM>
+    <NAME>Tričko adidas</NAME>
+    <SHORT_DESCRIPTION>Tričko pěkné</SHORT_DESCRIPTION>
+    <DESCRIPTION>Triko šité z kvalitních materiálů</DESCRIPTION>
+    <MANUFACTURER>Adidas</MANUFACTURER>
+    <WARRANTY>24</WARRANTY>
+    <ITEM_TYPE>product</ITEM_TYPE>
+    <UNIT>ks</UNIT>
+    <CATEGORIES>
+        <CATEGORY>Trička > Pánské</CATEGORY>
+    </CATEGORIES>
+    <IMAGES>
+        <IMAGE>http://www.test.com/pictures/56464654.gif</IMAGE>
+    </IMAGES>
+    <FLAGS>
+        <ACTION>0</ACTION>
+        <NEW>1</NEW>
+        <TIP>1</TIP>
+    </FLAGS>
+
+    <VARIANTS>
+        <VARIANT>
+            <CODE>AD-35</CODE>
+            <PARAMETERS>
+                <PARAMETER>
+                    <NAME>Barva</NAME>
+                    <VALUE>Zelená</VALUE>
+                </PARAMETER>
+                <PARAMETER>
+                    <NAME>Velikost</NAME>
+                    <VALUE>36</VALUE>
+                </PARAMETER>
+            </PARAMETERS>
+            <CURRENCY>CZK</CURRENCY>
+            <VAT>21</VAT>
+            <PRICE>200.00</PRICE>
+            <PURCHASE_PRICE>100.00</PURCHASE_PRICE>
+            <STANDARD_PRICE>250.00</STANDARD_PRICE>
+            <PRICE_VAT>220</PRICE_VAT>
+            <AVAILABILITY>Skladem za 14 dní</AVAILABILITY>
+        </VARIANT>
+        <VARIANT>
+            <CODE>AD-28</CODE>
+            <PARAMETERS>
+                <PARAMETER>
+                    <NAME>Barva</NAME>
+                    <VALUE>Modrá</VALUE>
+                </PARAMETER>
+                <PARAMETER>
+                    <NAME>Velikost</NAME>
+                    <VALUE>36</VALUE>
+                </PARAMETER>
+            </PARAMETERS>
+            <EAN>012234566789</EAN>
+            <CURRENCY>CZK</CURRENCY>
+            <VAT>21</VAT>
+            <PRICE>200.00</PRICE>
+            <PURCHASE_PRICE>100.00</PURCHASE_PRICE>
+            <STANDARD_PRICE>250.00</STANDARD_PRICE>
+            <PRICE_VAT>220</PRICE_VAT>
+            <AVAILABILITY>Skladem za 14 dní</AVAILABILITY>
+        </VARIANT>
+    </VARIANTS>
+</SHOPITEM>
