@@ -1,64 +1,40 @@
 <?xml version="1.0"?>
 <!-- Products without variants -->
 <SHOPITEM>
-
-    <NAME>Boty Nike AirMax</NAME>
-    <SHORT_DESCRIPTION>Stylové boty</SHORT_DESCRIPTION>
-    <DESCRIPTION>Stylové boty</DESCRIPTION>
-    <MANUFACTURER>Nike</MANUFACTURER>
-    <WARRANTY>24</WARRANTY>
-    <ITEM_TYPE>product</ITEM_TYPE>
-    <UNIT>ks</UNIT>
+    <NAME></NAME>
+    <SHORT_DESCRIPTION></SHORT_DESCRIPTION>
+    <DESCRIPTION></DESCRIPTION>
+    <MANUFACTURER></MANUFACTURER>
+    <WARRANTY></WARRANTY>
+    <ITEM_TYPE></ITEM_TYPE>
+    <UNIT></UNIT>
     <CATEGORIES>
-        <CATEGORY>Boty > Nike</CATEGORY>
-        <CATEGORY>Boty > Airmax</CATEGORY>
     </CATEGORIES>
     <IMAGES>
-        <IMAGE>http://www.test.com/obrazky/nike1.jpg</IMAGE>
-        <IMAGE>http://www.test.com/obrazky/nike2.jpg</IMAGE>
-        <IMAGE>http://www.test.com/obrazky/nike3.jpg</IMAGE>
     </IMAGES>
     <TEXT_PROPERTIES>
-        <TEXT_PROPERTY>
-            <NAME>Šití</NAME>
-            <VALUE>ruční</VALUE>
-        </TEXT_PROPERTY>
-        <TEXT_PROPERTY>
-            <NAME>Podrážka</NAME>
-            <VALUE>gumová</VALUE>
-        </TEXT_PROPERTY>
-        <TEXT_PROPERTY>
-            <NAME>Tkaničky</NAME>
-            <VALUE>kulaté</VALUE>
-        </TEXT_PROPERTY>
     </TEXT_PROPERTIES>
     <RELATED_PRODUCTS>
-        <CODE>NA-23</CODE>
-        <CODE>NA-29</CODE>
-        <CODE>NA-32</CODE>
     </RELATED_PRODUCTS>
     <ALTERNATIVE_PRODUCTS>
-        <CODE>NA-23</CODE>
-        <CODE>NA-29</CODE>
-        <CODE>NA-32</CODE>
     </ALTERNATIVE_PRODUCTS>
     <FLAGS>
         <ACTION>1</ACTION>
         <NEW>1</NEW>
         <TIP>0</TIP>
     </FLAGS>
-    <CODE>NA-25</CODE>
-    <PRICE>2320.00</PRICE>
-    <STANDARD_PRICE>2500.00</STANDARD_PRICE>
-    <PURCHASE_PRICE>1980.00</PURCHASE_PRICE>
-    <PRICE_VAT>2480.00</PRICE_VAT>
+    <CODE></CODE>
+    <PRICE></PRICE>
+    <STANDARD_PRICE></STANDARD_PRICE>
+    <PURCHASE_PRICE></PURCHASE_PRICE>
+    <PRICE_VAT></PRICE_VAT>
     <!-- WEIGHT entered in kilograms -->
-    <WEIGHT>0,32</WEIGHT>
+    <WEIGHT></WEIGHT>
     <VAT>21</VAT>
-    <EAN>5051571703857</EAN>
+    <EAN></EAN>
     <CURRENCY>CZK</CURRENCY>
     <STOCK>
-        <AMOUNT>25</AMOUNT>
+        <AMOUNT></AMOUNT>
         <MINIMAL_AMOUNT>1</MINIMAL_AMOUNT>
     </STOCK>
     <AVAILABILITY>Skladem</AVAILABILITY>
